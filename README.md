@@ -7,7 +7,7 @@ Please find below a brief description of each file
 •	Stock_market_OneYear_2018.vbs
    This code loops through all stocks in year 2018 only, giving the output required (Ticker, Yearly Change, Percent Change and Total Stock Volume). Colouring for both Yearly Change    and Percent Change are also included in the code.
 
-•	Stock_market_Looping_Three_years.vbs
+•	Stock_market_Looping_Three_years.vbs 
    This code outputs exactly the same requirments as in the code explained above, but for each year in the Excel file (2018, 2019, 2020)...looping through all three years.
 
 •	Stock_market_with_All_Items_Including_Bonus.vbs
